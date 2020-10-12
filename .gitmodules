@@ -1,0 +1,6 @@
+[submodule "external/SDL2"]
+	path = external/SDL2
+	url = https://github.com/SDL-mirror/SDL
+[submodule "external/glad"]
+	path = external/glad
+	url = https://github.com/porkchappie/glad-opengl2.1-opengles2.0.git
